@@ -78,7 +78,7 @@ export default {
       }, 1000)
     };
     // ====== 可配置项默认值（运行时可通过 config.json 覆盖）======
-    const DEFAULT_TITLE = '高速磁浮空调状态诊断模块'
+    const DEFAULT_TITLE = '高速磁浮38G车载设备状态'
     const DEFAULT_LOGOS = [
       { src: 'logo.png', width: 124.65, height: 41.43 }
     ]
